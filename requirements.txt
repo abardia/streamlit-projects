@@ -1,0 +1,6 @@
+sacremoses
+torch
+streamlit
+numpy
+transformers
+diffuseres
