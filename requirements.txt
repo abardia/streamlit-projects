@@ -2,5 +2,6 @@ sacremoses
 torch
 streamlit
 numpy
+diffusers
 transformers
-diffuseres
+
